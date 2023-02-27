@@ -1,1 +1,6 @@
-console.log("git is awesome")
+
+// enter user input below
+
+let userInput = "Some User Input"
+
+console.log(userInput)
